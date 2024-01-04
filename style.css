@@ -85,4 +85,8 @@ button {
         rotate: 5deg;
         border-radius: 0;
     }
+
+    .box {
+        width: 40%;
+    }
 }
