@@ -1,0 +1,1 @@
+One of my first projects. Idea from the internet, code mine. Simple Promt, saying hello.
